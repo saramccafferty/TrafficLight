@@ -13,11 +13,11 @@
 		56BC8C3428ECEBF20010A578 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56BC8C3228ECEBF20010A578 /* Main.storyboard */; };
 		56BC8C3628ECEBF40010A578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56BC8C3528ECEBF40010A578 /* Assets.xcassets */; };
 		56BC8C3928ECEBF40010A578 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56BC8C3728ECEBF40010A578 /* LaunchScreen.storyboard */; };
-		56E493ED28F9395B000B2D37 /* trafficLightAmber.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493E828F9395B000B2D37 /* trafficLightAmber.png */; };
-		56E493EE28F9395B000B2D37 /* trafficLightLaunch.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493E928F9395B000B2D37 /* trafficLightLaunch.png */; };
-		56E493EF28F9395B000B2D37 /* trafficLightRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493EA28F9395B000B2D37 /* trafficLightRed.png */; };
-		56E493F028F9395B000B2D37 /* trafficLightBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493EB28F9395B000B2D37 /* trafficLightBG.png */; };
-		56E493F128F9395B000B2D37 /* trafficLightGreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493EC28F9395B000B2D37 /* trafficLightGreen.png */; };
+		56E493E328F938E8000B2D37 /* trafficLightRed.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493DE28F938E8000B2D37 /* trafficLightRed.png */; };
+		56E493E428F938E8000B2D37 /* trafficLightBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493DF28F938E8000B2D37 /* trafficLightBG.png */; };
+		56E493E528F938E8000B2D37 /* trafficLightGreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493E028F938E8000B2D37 /* trafficLightGreen.png */; };
+		56E493E628F938E8000B2D37 /* trafficLightAmber.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493E128F938E8000B2D37 /* trafficLightAmber.png */; };
+		56E493E728F938E8000B2D37 /* trafficLightLaunch.png in Resources */ = {isa = PBXBuildFile; fileRef = 56E493E228F938E8000B2D37 /* trafficLightLaunch.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,11 +29,11 @@
 		56BC8C3528ECEBF40010A578 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56BC8C3828ECEBF40010A578 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56BC8C3A28ECEBF40010A578 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56E493E828F9395B000B2D37 /* trafficLightAmber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightAmber.png; path = Assets.xcassets/trafficLightAmber.png; sourceTree = "<group>"; };
-		56E493E928F9395B000B2D37 /* trafficLightLaunch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightLaunch.png; path = Assets.xcassets/trafficLightLaunch.png; sourceTree = "<group>"; };
-		56E493EA28F9395B000B2D37 /* trafficLightRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightRed.png; path = Assets.xcassets/trafficLightRed.png; sourceTree = "<group>"; };
-		56E493EB28F9395B000B2D37 /* trafficLightBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightBG.png; path = Assets.xcassets/trafficLightBG.png; sourceTree = "<group>"; };
-		56E493EC28F9395B000B2D37 /* trafficLightGreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightGreen.png; path = Assets.xcassets/trafficLightGreen.png; sourceTree = "<group>"; };
+		56E493DE28F938E8000B2D37 /* trafficLightRed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightRed.png; path = Assets.xcassets/trafficLightRed.png; sourceTree = "<group>"; };
+		56E493DF28F938E8000B2D37 /* trafficLightBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightBG.png; path = Assets.xcassets/trafficLightBG.png; sourceTree = "<group>"; };
+		56E493E028F938E8000B2D37 /* trafficLightGreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightGreen.png; path = Assets.xcassets/trafficLightGreen.png; sourceTree = "<group>"; };
+		56E493E128F938E8000B2D37 /* trafficLightAmber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightAmber.png; path = Assets.xcassets/trafficLightAmber.png; sourceTree = "<group>"; };
+		56E493E228F938E8000B2D37 /* trafficLightLaunch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trafficLightLaunch.png; path = Assets.xcassets/trafficLightLaunch.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,11 +71,11 @@
 				56BC8C3028ECEBF20010A578 /* ViewController.swift */,
 				56BC8C3228ECEBF20010A578 /* Main.storyboard */,
 				56BC8C3528ECEBF40010A578 /* Assets.xcassets */,
-				56E493EB28F9395B000B2D37 /* trafficLightBG.png */,
-				56E493EC28F9395B000B2D37 /* trafficLightGreen.png */,
-				56E493E828F9395B000B2D37 /* trafficLightAmber.png */,
-				56E493E928F9395B000B2D37 /* trafficLightLaunch.png */,
-				56E493EA28F9395B000B2D37 /* trafficLightRed.png */,
+				56E493E128F938E8000B2D37 /* trafficLightAmber.png */,
+				56E493DF28F938E8000B2D37 /* trafficLightBG.png */,
+				56E493E028F938E8000B2D37 /* trafficLightGreen.png */,
+				56E493E228F938E8000B2D37 /* trafficLightLaunch.png */,
+				56E493DE28F938E8000B2D37 /* trafficLightRed.png */,
 				56BC8C3728ECEBF40010A578 /* LaunchScreen.storyboard */,
 				56BC8C3A28ECEBF40010A578 /* Info.plist */,
 			);
@@ -140,14 +140,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56E493F028F9395B000B2D37 /* trafficLightBG.png in Resources */,
-				56E493F128F9395B000B2D37 /* trafficLightGreen.png in Resources */,
-				56E493EF28F9395B000B2D37 /* trafficLightRed.png in Resources */,
-				56E493ED28F9395B000B2D37 /* trafficLightAmber.png in Resources */,
-				56E493EE28F9395B000B2D37 /* trafficLightLaunch.png in Resources */,
 				56BC8C3928ECEBF40010A578 /* LaunchScreen.storyboard in Resources */,
+				56E493E328F938E8000B2D37 /* trafficLightRed.png in Resources */,
+				56E493E628F938E8000B2D37 /* trafficLightAmber.png in Resources */,
 				56BC8C3628ECEBF40010A578 /* Assets.xcassets in Resources */,
+				56E493E528F938E8000B2D37 /* trafficLightGreen.png in Resources */,
 				56BC8C3428ECEBF20010A578 /* Main.storyboard in Resources */,
+				56E493E428F938E8000B2D37 /* trafficLightBG.png in Resources */,
+				56E493E728F938E8000B2D37 /* trafficLightLaunch.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
